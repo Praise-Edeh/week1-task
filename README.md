@@ -9,7 +9,7 @@ Achievements and Met Requirements:
 4. Footer Styling: Positioned the footer at the bottom of the page and styled its text to be centered.
 
 Unmet Requirements:
-In attemted all the requirements.
+I attemted all the requirements.
 
 Difficulty Encountered:
 Class Naming: Had difficulty managing class names for multiple elements with similar styles.
